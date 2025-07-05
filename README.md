@@ -10,7 +10,11 @@ Takım Elemanları
 Ürün İsmi
 -
 🧠 Medakai — Akıllı İlaç Rehberi ve Asistanı
+
+Takım Logosu
 -
+![ChatGPT Image 5 Tem 2025 21_44_12](https://github.com/user-attachments/assets/bd2d9ca2-40e8-495b-90f8-ffcf327524e3)
+
 🩺 Ürün Açıklaması
 -
 Medakai, ilaç kullanımı sırasında hastaların karşılaştığı kafa karışıklıklarını ve bilgi eksikliğini yapay zeka ile gideren bir sağlık teknolojisi çözümüdür. Kullanıcılara ilaçlarla ilgili yan etkiler, kullanım dozajları, kontrendikasyonlar ve etkileşimler hakkında özet bilgiler sunarken, ilaç saatlerini hatırlatma ve olası yan etkilerde önlem alma konusunda aktif destek sağlar.
