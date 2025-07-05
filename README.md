@@ -39,3 +39,55 @@ ________________________________________
 •	Ebeveynler (çocuklarının ilaç takibini yapmak isteyenler)
 
 •	Sağlık okuryazarlığı düşük olan bireyler
+
+🧰 Kullanılan Teknolojiler (Sprint 1 Planı)
+-
+•	Frontend: Streamlit (hızlı prototipleme için)
+
+•	AI Platformu: Gemini Pro API (LLM ile doğal dil yanıtları)
+
+•	Veri Tabanı (ilerleyen sprintlerde): SQLite veya Firebase
+
+•	Bildirim Sistemi: Local Time Alerts (Streamlit içinde)
+
+•	Versiyonlama: GitHub + README + Sprint dökümanları
+
+________________________________________
+
+🪜 Sprint 1 Hedefleri
+-
+
+•	Proje vizyonunun netleştirilmesi
+
+•	Kullanıcı senaryolarının yazılması
+
+•	Prototip arayüz taslağı (Streamlit veya Figma)
+
+•	Prompt sisteminin ve örnek veri girişlerinin hazırlanması
+
+•	Ürün isim ve logo çalışmasının tamamlanması
+
+•	GitHub repo oluşturulması ve temel klasör yapısı kurulumu
+
+•	MVP kapsamının belirlenmesi ve backlog dosyasının oluşturulması
+
+________________________________________
+
+💡 Geliştirme Sonrası Planlar
+-
+•	Genişletilmiş ilaç veritabanı entegrasyonu (Türk İlaç ve Tıbbi Cihaz Kurumu verileriyle)
+
+•	Mobil uygulama dönüşümü (.apk)
+
+•	Sesli asistan entegrasyonu (Google STT)
+
+•	Yan etki istatistikleri ve kullanıcı topluluğu oluşturma
+
+•	Acil durum butonu ile sağlık danışmanına yönlendirme sistemi
+
+________________________________________
+
+📝 Jüriye Not
+
+Bu ürün, yalnızca bir teknik uygulama değil, aynı zamanda kamu sağlığına katkı sağlayacak sosyal etkisi yüksek bir dijital çözümdür. Sprint 1 sonunda teknik prototipimiz kısıtlı fonksiyonlarla sunulsa da, Medakai’nin büyüme ve ölçeklenme potansiyeli yüksektir. Son sprintlerde canlı demo, LLM cevap motoru ve test veri entegrasyonları tamamlanacaktır.
+
