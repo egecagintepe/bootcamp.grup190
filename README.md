@@ -1,3 +1,14 @@
+Takım İsmi
+-
+Takım 190
+
+Ürün İle İlgili Bilgiler
+-
+Takım Elemanları
+-
+
+Ürün İsmi
+-
 🧠 Medakai — Akıllı İlaç Rehberi ve Asistanı
 -
 🩺 Ürün Açıklaması
