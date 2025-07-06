@@ -131,14 +131,43 @@ Sprint 1 kapsamında aşağıdaki adımlar gerçekleştirilmiştir:
 -
 Bu sprintin bir diğer hedefi, ürünün temel arayüzünü oluşturmaktı. Kullanıcının ilaç adı girmesi ve sistemin ilgili bilgiyi ya da yan etki yorumunu göstermesi üzerine bir ekran akışı planlandı.
 
-Figma üzerinden wireframe çalışmaları başlatıldı.
+Sprint 1’de, koddan bağımsız şekilde hızlı prototipleme imkânı veren bir low-code tasarım aracı kullanılarak aşağıdaki ekranlar üretildi:
 
-İki ana ekran tasarlandı:
+Hoş Geldin Ekranı
 
-Giriş ve ilaç bilgisi sorgulama ekranı
+![Adsız tasarım](https://github.com/user-attachments/assets/528af4f7-63a7-4f2b-b125-a1a936c0e219)
 
-AI yanıtı gösterim ekranı
-(Buraya Figma’dan alınan wireframe görsellerini koyun – örneğin screenshots/ui_wireframe1.png ve ui_wireframe2.png)
+Profil Kısmı
+
+![Profile Screen](https://github.com/user-attachments/assets/608fbe04-1b25-4ef5-afa6-cc42c380b774)
+
+Hızlı Erişim Ekranı
+
+![Home Screen](https://github.com/user-attachments/assets/190ba0cb-3509-45b3-b5c7-ef74cce7d71f)
+
+Olası Bir Sağlık Güncellemesi Kayıt Etme Ekranı
+
+![Form](https://github.com/user-attachments/assets/7b763073-43cd-4fd6-a534-e2650d635379)
+
+Arama Ekranı
+
+![Search Results](https://github.com/user-attachments/assets/84864032-9a7b-4e3f-8f85-b32662d30674)
+
+Seçilen İlaçla İlgili Detaylar Kısmı
+
+![Medicine Details](https://github.com/user-attachments/assets/2973d51e-40bb-4184-a849-7bf09a7d8977)
+
+Yapay Zeka İle Sohbet Kısmı 
+
+![HealthBuddy Home](https://github.com/user-attachments/assets/3726e85b-a07e-4f7f-b82e-432d6652e6ed)
+
+Yapay Zeka İle Sohbet
+
+![HealthBuddy Chat](https://github.com/user-attachments/assets/d083dae3-2ed3-4888-b007-4daacab33e80)
+
+Sık Kullanılan İlaçlarla İlgili Hatırlatıcı Kurma Ekranı
+
+![Reminders](https://github.com/user-attachments/assets/f76f24ce-b2a7-41d2-9b1a-d34f1a88a9c7)
 
 🛠️ Teknik Altyapı Planlaması
 -
@@ -148,8 +177,7 @@ Kullanıcı arayüzü için Streamlit’in mobil uyumlu yapısından faydalanıl
 
 Backend ihtiyaçları ilerleyen sprintlerde Gemini API ile desteklenecek.
 
-Gereken Python kütüphaneleri listelendi ve requirements.txt dosyasına yazıldı.
-(Buraya requirements.txt içeriğinin ekran görüntüsü veya dosya bağlantısı koyun)
+Sonraki sprinte kadar gereken Python kütüphaneleri listelenecek ve requirements.txt dosyasına yazılacak.
 
 🧠 AI Planlaması
 -
@@ -165,13 +193,11 @@ Cevap: “Mide bulantısı Augmentin'in bilinen yan etkilerindendir. Eğer belir
 -
 Sprint 1 süresince takımda katılım eksikliği yaşanmıştır. Bu nedenle görevlerin büyük bölümü Product Owner ve Scrum Master tarafından yapılmıştır. Buna rağmen, ürün fikrinin netleştirilmesi, görsel tasarım, teknik planlama ve dokümantasyon başarıyla tamamlanmıştır.
 
-(Buraya varsa Daily Scrum görüntüsü, WhatsApp planlama SS'i gibi iletişim kanalı örneği ekleyebilirsiniz – örn: screenshots/scrum_chat.png)
-
 🔁 Sprint Retrospective
 -
 Teknik altyapı Sprint 2’ye hazır hale getirildi.
 
-Katılım göstermeyen üyelerin yeniden görevlendirilmesi planlanıyor.
+Katılım göstermeyen üyelerin yeniden görevlendirilmesi ve bildirilmesi planlanıyor.
 
 sprintte ilk çalışan demo hedefleniyor (Streamlit tabanlı, temel AI cevabı).
 
