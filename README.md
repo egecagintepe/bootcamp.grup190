@@ -106,3 +106,77 @@ ________________________________________
 
 Bu ürün, yalnızca bir teknik uygulama değil, aynı zamanda kamu sağlığına katkı sağlayacak sosyal etkisi yüksek bir dijital çözümdür. Sprint 1 sonunda teknik prototipimiz kısıtlı fonksiyonlarla sunulsa da, Medakai’nin büyüme ve ölçeklenme potansiyeli yüksektir. Son sprintlerde canlı demo, LLM cevap motoru ve test veri entegrasyonları tamamlanacaktır.
 
+📝 Sprint 1
+-
+
+Medakai projesi, ilaç kullanıcılarına yönelik yapay zeka destekli kişisel bir sağlık asistanı olarak planlandı. Bu sprintin temel amacı, ürünün vizyonunu netleştirmek, teknik çerçevesini çizmek ve sprint sürecini başlatacak planlamaları tamamlamaktı.
+
+Sprint 1 kapsamında aşağıdaki adımlar gerçekleştirilmiştir:
+
+1. Proje adı ve vizyonu netleştirildi.
+
+2. Takım içi görev dağılımı yapıldı ve roller belirlendi.
+(PNG)
+
+3. Ürün fikrinin hedef kitlesi ve kullanım senaryoları belirlendi.
+
+4. Minimum Viable Product (MVP) kapsamı çıkarıldı.
+
+5. Proje dosya yapısı oluşturuldu, GitHub reposu açıldı.
+
+7. Ürün logosu tasarlandı ve uygulamaya entegre edilmesi planlandı.
+(png)
+
+🎨 UI / UX Tasarımları
+-
+Bu sprintin bir diğer hedefi, ürünün temel arayüzünü oluşturmaktı. Kullanıcının ilaç adı girmesi ve sistemin ilgili bilgiyi ya da yan etki yorumunu göstermesi üzerine bir ekran akışı planlandı.
+
+Figma üzerinden wireframe çalışmaları başlatıldı.
+
+İki ana ekran tasarlandı:
+
+Giriş ve ilaç bilgisi sorgulama ekranı
+
+AI yanıtı gösterim ekranı
+(Buraya Figma’dan alınan wireframe görsellerini koyun – örneğin screenshots/ui_wireframe1.png ve ui_wireframe2.png)
+
+🛠️ Teknik Altyapı Planlaması
+-
+Geliştirme ortamı olarak PyCharm + Streamlit tercih edildi.
+
+Kullanıcı arayüzü için Streamlit’in mobil uyumlu yapısından faydalanılacak.
+
+Backend ihtiyaçları ilerleyen sprintlerde Gemini API ile desteklenecek.
+
+Gereken Python kütüphaneleri listelendi ve requirements.txt dosyasına yazıldı.
+(Buraya requirements.txt içeriğinin ekran görüntüsü veya dosya bağlantısı koyun)
+
+🧠 AI Planlaması
+-
+LLM destekli “yan etki danışmanı” modülünün prompt yapısı belirlendi.
+
+Örnek kullanıcı girişi ve model yanıtı aşağıda gösterilmiştir:
+
+Kullanıcı: “Augmentin aldım ama midem bulandı, ne yapmalıyım?”
+AI Prompt: “Kullanıcının ilaç ve semptom bilgisi üzerinden medikal uyarı ver. Gerekiyorsa doktora başvurmasını öner.”
+Cevap: “Mide bulantısı Augmentin'in bilinen yan etkilerindendir. Eğer belirtiler şiddetlenirse doktorunuza başvurunuz.”
+
+🧾 Sprint Review
+-
+Sprint 1 süresince takımda katılım eksikliği yaşanmıştır. Bu nedenle görevlerin büyük bölümü Product Owner (Hakan Duman) tarafından üstlenilmiştir. Buna rağmen, ürün fikrinin netleştirilmesi, görsel tasarım, teknik planlama ve dokümantasyon başarıyla tamamlanmıştır.
+
+(Buraya varsa Daily Scrum görüntüsü, WhatsApp planlama SS'i gibi iletişim kanalı örneği ekleyebilirsiniz – örn: screenshots/scrum_chat.png)
+
+🔁 Sprint Retrospective
+-
+Teknik altyapı Sprint 2’ye hazır hale getirildi.
+
+Katılım göstermeyen üyelerin yeniden görevlendirilmesi planlanıyor.
+
+sprintte ilk çalışan demo hedefleniyor (Streamlit tabanlı, temel AI cevabı).
+
+Eğer katkı alınamazsa, dış mentorlardan destek istenerek proje sürdürülecek.
+
+📌 Not
+Bu sprint kod yazımı açısından sınırlı geçmiş olsa da, planlama ve strateji açısından güçlü temeller atılmıştır. Takım dinamiğinin güçlendirilmesi ile sonraki sprintlerde fonksiyonel çıktılar elde edilmesi hedeflenmektedir.
+
