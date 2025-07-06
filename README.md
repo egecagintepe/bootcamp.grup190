@@ -1,6 +1,6 @@
 Takım İsmi
 -
-Takım 190
+Laters
 
 Ürün İle İlgili Bilgiler
 -
@@ -121,7 +121,6 @@ Sprint 1 kapsamında aşağıdaki adımlar gerçekleştirilmiştir:
 1. Proje adı ve vizyonu netleştirildi.
 
 2. Takım içi görev dağılımı yapıldı ve roller belirlendi.
-(PNG)
 
 3. Ürün fikrinin hedef kitlesi ve kullanım senaryoları belirlendi.
 
@@ -130,7 +129,6 @@ Sprint 1 kapsamında aşağıdaki adımlar gerçekleştirilmiştir:
 5. Proje dosya yapısı oluşturuldu, GitHub reposu açıldı.
 
 7. Ürün logosu tasarlandı ve uygulamaya entegre edilmesi planlandı.
-(png)
 
 🎨 UI / UX Tasarımları
 -
@@ -204,7 +202,7 @@ Teknik altyapı Sprint 2’ye hazır hale getirildi.
 
 Katılım göstermeyen üyelerin yeniden görevlendirilmesi ve bildirilmesi planlanıyor.
 
-sprintte ilk çalışan demo hedefleniyor (Streamlit tabanlı, temel AI cevabı).
+Sprintte ilk çalışan demo hedefleniyor (Streamlit tabanlı, temel AI cevabı).
 
 Eğer katkı alınamazsa, dış mentorlardan destek istenerek proje sürdürülecek.
 
