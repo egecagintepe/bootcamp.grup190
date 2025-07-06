@@ -9,7 +9,7 @@ Takım Elemanları
 1. Serhat Yazıcı - Scrum Master
 2. Ege Çağın Tepe - Product Owner
 3. Furkan Akalp - Devoloper
-4. Sena
+4. Sena AKSU - Devoloper
 5. Selahattin
 
 Ürün İsmi
