@@ -163,7 +163,7 @@ Cevap: “Mide bulantısı Augmentin'in bilinen yan etkilerindendir. Eğer belir
 
 🧾 Sprint Review
 -
-Sprint 1 süresince takımda katılım eksikliği yaşanmıştır. Bu nedenle görevlerin büyük bölümü Product Owner (Hakan Duman) tarafından üstlenilmiştir. Buna rağmen, ürün fikrinin netleştirilmesi, görsel tasarım, teknik planlama ve dokümantasyon başarıyla tamamlanmıştır.
+Sprint 1 süresince takımda katılım eksikliği yaşanmıştır. Bu nedenle görevlerin büyük bölümü Product Owner ve Scrum Master tarafından yapılmıştır. Buna rağmen, ürün fikrinin netleştirilmesi, görsel tasarım, teknik planlama ve dokümantasyon başarıyla tamamlanmıştır.
 
 (Buraya varsa Daily Scrum görüntüsü, WhatsApp planlama SS'i gibi iletişim kanalı örneği ekleyebilirsiniz – örn: screenshots/scrum_chat.png)
 
