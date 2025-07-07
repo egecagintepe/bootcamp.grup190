@@ -135,7 +135,7 @@ Sprint 1 kapsamında aşağıdaki adımlar gerçekleştirilmiştir:
 5. Proje dosya yapısı oluşturuldu, GitHub reposu açıldı.
 
 7. Ürün logosu tasarlandı ve uygulamaya entegre edilmesi planlandı.
-8. 
+
 ![ChatGPT Image 5 Tem 2025 21_44_12](https://github.com/user-attachments/assets/febaeb9b-180a-4062-a5ad-99ed47dc7622)
 
 
