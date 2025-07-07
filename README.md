@@ -111,6 +111,8 @@ ________________________________________
 
 Bu ürün, yalnızca bir teknik uygulama değil, aynı zamanda kamu sağlığına katkı sağlayacak sosyal etkisi yüksek bir dijital çözümdür. Sprint 1 sonunda teknik prototipimiz kısıtlı fonksiyonlarla sunulsa da, Medakai’nin büyüme ve ölçeklenme potansiyeli yüksektir. Son sprintlerde canlı demo, LLM cevap motoru ve test veri entegrasyonları tamamlanacaktır.
 
+Backlog URL : https://trello.com/b/O9WYqpNQ/bootcamp-190-medikai
+
 📝 Sprint 1
 -
 
