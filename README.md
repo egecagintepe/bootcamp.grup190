@@ -122,6 +122,10 @@ Sprint 1 kapsamında aşağıdaki adımlar gerçekleştirilmiştir:
 
 2. Takım içi görev dağılımı yapıldı ve roller belirlendi.
 
+![image](https://github.com/user-attachments/assets/6d3a8a10-da2f-4b8d-9a34-bdb2853466ba)
+
+(Detaylı Görev Dağılımı İçin Trello Sayfamıza Bakınız)
+
 3. Ürün fikrinin hedef kitlesi ve kullanım senaryoları belirlendi.
 
 4. Minimum Viable Product (MVP) kapsamı çıkarıldı.
@@ -129,6 +133,41 @@ Sprint 1 kapsamında aşağıdaki adımlar gerçekleştirilmiştir:
 5. Proje dosya yapısı oluşturuldu, GitHub reposu açıldı.
 
 7. Ürün logosu tasarlandı ve uygulamaya entegre edilmesi planlandı.
+![ChatGPT Image 5 Tem 2025 21_44_12](https://github.com/user-attachments/assets/febaeb9b-180a-4062-a5ad-99ed47dc7622)
+
+
+🎯 Sprint Planlaması
+-
+
+Sprint içinde tamamlanması tahmin edilen puan: 100 Puan
+
+Puan tamamlama mantığı:
+
+Toplam 300 puanlık product backlog hedefi belirlendi. 3 sprint’e bölündüğünde, Sprint 1 için 100 puanlık görev planlandı. Bu puanlama, kullanıcı araştırmaları, tasarım üretimi, teknik planlama ve AI modülü hazırlığına göre yapılandırıldı.
+
+| Kart Başlığı                           | Açıklama                               | Tahmini Puan (Story Point) |
+| -------------------------------------- | -------------------------------------- | -------------------------- |
+| Proje adı ve vizyonunun belirlenmesi   | Medakai ismi, logo, slogan             | 10                         |
+| Kullanıcı senaryolarının çıkarılması   | Hedef kitleye uygun kullanım örnekleri | 15                         |
+| MVP kapsamının belirlenmesi            | Minimum özelliklerin netleştirilmesi   | 10                         |
+| GitHub oluşturulması ve README şablonu | Temel repo yapısı                      | 10                         |
+| UI ekran tasarımı yapılması            | Ekran tasarımı                         | 25                         |
+| AI senaryolarının planlanması          | Prompt örnekleri ve cevaplar           | 15                         |
+| Proje dosya yapısının planlanması      | Klasör düzeni, requirements vs.        | 10                         |
+| Trello kurulumu ve görev dağılımı      | Sprint 1 panosu ve roller              | 5                          |
+
+Backlog URL : https://trello.com/b/O9WYqpNQ/bootcamp-190-medikai
+
+🗓️ Daily Scrum
+-
+
+Sprint süresince ekip üyeleriyle günlük iletişim, WhatsApp grubunda yazılı olarak sağlandı.
+
+Toplantılar Product Owner liderliğinde ilerledi.
+
+![image](https://github.com/user-attachments/assets/fb15595a-9bcb-495c-9a42-c7726a2e41a9)
+![image](https://github.com/user-attachments/assets/65b5e610-b80f-4a27-9584-ffcfd841f04d)
+
 
 🎨 UI / UX Tasarımları
 -
@@ -191,6 +230,14 @@ LLM destekli “yan etki danışmanı” modülünün prompt yapısı belirlendi
 Kullanıcı: “Augmentin aldım ama midem bulandı, ne yapmalıyım?”
 AI Prompt: “Kullanıcının ilaç ve semptom bilgisi üzerinden medikal uyarı ver. Gerekiyorsa doktora başvurmasını öner.”
 Cevap: “Mide bulantısı Augmentin'in bilinen yan etkilerindendir. Eğer belirtiler şiddetlenirse doktorunuza başvurunuz.”
+
+📊 Sprint Board
+-
+
+![image](https://github.com/user-attachments/assets/5246c40f-341c-4ce9-9b21-8406d6517a7c)
+
+https://trello.com/b/O9WYqpNQ/bootcamp-190-medikai
+
 
 🧾 Sprint Review
 -
