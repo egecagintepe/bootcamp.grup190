@@ -283,6 +283,17 @@ Bu kapsamda aşağıdaki hedefler belirlenmiştir:
 * Hatırlatma sisteminin temelinin atılması
 * Mobil arayüz için ilk UI fikirlerinin ve temel mockup taslaklarının hazırlanması
 
+
+## 🧩 1. **Gerçekleştirilen İlk Adımlar**
+
+Sprint başında alınan kararlar ve oluşturulan altyapı hakkında genel bilgi.
+
+**Örnek:**
+
+ * Sprint 2 başlangıcında bir önceki sprint değerlendirilmiş, eksikler belirlenmiş ve buna göre bir geliştirme planı çıkarılmıştır.
+ * Takım üyeleri arasında yeni görev dağılımı yapılmıştır.
+ * OpenFDA API ile entegrasyon süreci başlatılmıştır.
+ * Reminder (hatırlatma) sistemi temel düzeyde planlanmış ve test edilmiştir. 
 ---
 
 ## 📋 Sprint Board – Project Management
@@ -310,6 +321,21 @@ Board, aşağıdaki 3 ana kategoride yapılandırılmıştır:
 
 ---
 
+## ⚙️ 5. **Teknik Altyapı – Alt Depo Planlaması**
+
+> Hangi diller, hangi sistemler, nasıl entegrasyon?
+
+**Örnek:**
+
+* Backend: Python (FastAPI ile REST API geliştirme)
+* Veritabanı: SQLite (başlangıç), ileride PostgreSQL
+* Frontend: Flutter (ileride)
+* OpenFDA API entegrasyonu: `requests` ile veri çekme
+* Reminder sistemi: `schedule` veya `apscheduler` ile zamanlayıcı
+* Deployment: İlk aşamada lokal, ileride Streamlit Cloud
+
+
+
 ## 📊 Burn Down Chart (Temsili)
 
 ```plaintext
@@ -331,6 +357,45 @@ Completed: 6
 
 * Terminalde ilaç sorgusu sonrası dönen JSON cevabı
 * Saatlik reminder çıktısı (varsayımsal)
+
+
+## 🧠 6. **Yapay Zekâ Planlaması**
+
+> Hedef model, veriseti, etiketleme planı
+
+* Kullanılacak yöntem: Basit sınıflandırıcı (Random Forest / Naive Bayes)
+* Girdi: Kullanıcının ilaç bilgisi (OpenFDA JSON verisi)
+* Hedef: Potansiyel yan etkileri kullanıcıya bildirme
+* Etiketleme: OpenFDA “adverse effects” kısmından çekilecek
+* Eğitim verisi: Sprint 3’e hazırlık için örnek set hazırlanacak
+
+
+## 🖌️ 4. **UI/UX Tasarım Süreci**
+
+> Mock-up ekranları, kullanıcı yolculuğu, ekranların açıklamaları.
+
+**Yapılabilecekler:**
+
+* Figma veya Canva üzerinden 2–3 temel ekran:
+
+  * Ana sayfa
+  * İlaç takibi ekranı
+  * Bildirim ekranı
+* Basit kullanıcı akış diyagramı: "İlaç ekle → Zaman ayarla → Bildirim al"
+
+
+## 🗓️ 3. **Daily Scrum Kayıtları**
+
+> Her güne ait kısa notlar. (Gerçek olmasa bile anlamlı olmalı)
+
+**Örnek:**
+
+* **1. Gün:** OpenFDA API dokümantasyonu incelendi. API Key alındı.
+* **2. Gün:** JSON örnek verisi çekildi ve temel parser yazıldı.
+* **3. Gün:** Reminder sisteminin alarm mekanizması çalıştırıldı.
+* **4. Gün:** Figma üzerinden ilk mock-up eskizleri hazırlandı.
+* **5. Gün:** Sprint dökümanları güncellendi, Trello kartları tamamlandı.
+
 
 ---
 
@@ -377,6 +442,17 @@ Sprint boyunca aktif olan ekip üyeleri:
 * Reminder sistemi mobil uyuma taşınacak
 * JSON veri yönetimi optimize edilecek
 
+
+
+## 🔄 7. **Sprint Review 
+
+> Sprint sonunda genel değerlendirme + ekip içi gözden geçirme
+
+**Sprint Review:**
+
+* API bağlantısı ve reminder sistemi başarıyla test edildi.
+* Mock-up eksik kaldı ancak ilk taslaklar hazırlandı.
+
 ---
 
 ## 🗒️ Additional Notes
@@ -394,3 +470,26 @@ Sprint boyunca aktif olan ekip üyeleri:
 * Yapay zekâ destekli veri sınıflandırma sisteminin başlanması
 * Mobil mockup’ların dijital prototipe çevrilmesi
 * Final sunum için demo hazırlanması
+
+
+
+
+---
+
+## 📈 2. **Sprint Planlaması – Story Point Tablosu**
+
+> Her kartın açıklaması ve tahmini puanı.
+
+**Örnek tablo:**
+
+| Kart Başlığı                       | Açıklama                                         | Tahmini Puan (Story Point) |
+| ---------------------------------- | ------------------------------------------------ | -------------------------- |
+| OpenFDA API bağlantısı             | API Key alma, test sorgusu yapma                 | 25                          |
+| JSON veri çekimi ve ayrıştırılması | OpenFDA'dan gelen verinin parse edilmesi         | 25                          |
+| Reminder sistemi                   | Kullanıcıya ilaç zamanı hatırlatma mekanizması   | 10                          |
+| Mock-up tasarımı                   | UI/UX temel ekranlar                             | 10                          |
+| AI model planlaması                | Yan etki tespiti için sınıflandırıcı araştırması | 30                          |
+
+---
+
+
