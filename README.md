@@ -298,6 +298,7 @@ Sprint başında alınan kararlar ve oluşturulan altyapı hakkında genel bilgi
 ## 📋 Sprint Board – Project Management
 
 📌 **Ek:** Trello board ekran görüntüsü aşağıda yer almaktadır.
+
 <img width="1912" height="954" alt="image" src="https://github.com/user-attachments/assets/d666bb21-9e5d-4b86-ad34-0d5d42fcb76b" />
 
 ---
@@ -327,10 +328,9 @@ Completed: 19
 
 ## 📷 App Screenshot
 
-
-https://github.com/user-attachments/assets/78579259-1dc3-42d2-84c8-1b0869df42ac
-
 API Entegrasyonu Sonrası İlk Deneme
+
+https://github.com/user-attachments/assets/5133eb17-9beb-4a51-8581-8bbf2fa3bc6a
 
 ---
 
