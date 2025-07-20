@@ -332,6 +332,15 @@ API Entegrasyonu Sonrası İlk Deneme
 
 https://github.com/user-attachments/assets/5133eb17-9beb-4a51-8581-8bbf2fa3bc6a
 
+İlk Test Fotoğrafları:
+
+![WhatsApp Görsel 2025-07-20 saat 22 39 05_c669bc8f](https://github.com/user-attachments/assets/d19b3df6-1eb2-407c-8111-67cdf0d677f4)
+
+![WhatsApp Görsel 2025-07-20 saat 22 39 20_cfacc0bd](https://github.com/user-attachments/assets/bebe0cfd-a513-4d38-8cad-737e49b30733)
+
+![WhatsApp Görsel 2025-07-20 saat 22 39 56_00456e24](https://github.com/user-attachments/assets/c7a0842c-c44b-4824-b884-d8b8a41eef36)
+
+
 ---
 
 ## 🧠 **Yapay Zekâ Planlaması**
