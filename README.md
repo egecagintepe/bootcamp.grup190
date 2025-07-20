@@ -297,20 +297,8 @@ Sprint başında alınan kararlar ve oluşturulan altyapı hakkında genel bilgi
 
 ## 📋 Sprint Board – Project Management
 
-### 🧩 Ana Kartlar:
-
-| Kart Adı                                 | Durum       | Açıklama                                              |
-| ---------------------------------------- | ----------- | ----------------------------------------------------- |
-| API Key Alımı ve Test Bağlantısı         | Done        | OpenFDA ile bağlantı kuruldu, token alındı            |
-| JSON Verilerinin Çekilmesi ve Saklanması | In Progress | İlaçlara dair veri listeleri çekildi                  |
-| Reminder Sistemi Kurulumu                | In Progress | Saat bazlı hatırlatma modülü kodlandı                 |
-| Veri Çeviri ve Türkçeleştirme            | In Progress | JSON verileri işlenip Türkçeye çevriliyor             |
-| Mobil Mockup Tasarımı                    | To Do       | UI için ana mockup süreci Trello’ya yüklenmesi        |
-| Kullanıcı Akışı Haritası                 | To Do       | Hasta girişi > ilaç seçimi > uyarı akışı belirlenecek |
-
 📌 **Ek:** Trello board ekran görüntüsü aşağıda yer almaktadır.
 <img width="1912" height="954" alt="image" src="https://github.com/user-attachments/assets/d666bb21-9e5d-4b86-ad34-0d5d42fcb76b" />
-
 
 ---
 
