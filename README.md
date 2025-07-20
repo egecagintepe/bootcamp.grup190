@@ -372,13 +372,26 @@ https://github.com/user-attachments/assets/5133eb17-9beb-4a51-8581-8bbf2fa3bc6a
 
 ## 📈 **Sprint Planlaması – Story Point Tablosu**
 
-| Kart Başlığı                       | Açıklama                                         | Tahmini Puan (Story Point) |
-| ---------------------------------- | ------------------------------------------------ | -------------------------- |
-| OpenFDA API bağlantısı             | API Key alma, test sorgusu yapma                 | 25                          |
-| JSON veri çekimi ve ayrıştırılması | OpenFDA'dan gelen verinin parse edilmesi         | 25                          |
-| Reminder sistemi                   | Kullanıcıya ilaç zamanı hatırlatma mekanizması   | 10                          |
-| Mock-up tasarımı                   | UI/UX temel ekranlar                             | 10                          |
-| AI model planlaması                | Yan etki tespiti için sınıflandırıcı araştırması | 30                          |
+## 📌 **Puan Tamamlama Mantığı – Sprint 2**
+
+Bu sprintte toplam **100 puanlık** görev planlandı. Görevler, veri entegrasyonu, hatırlatma sisteminin kurulması, AI planlaması ve mobil mock-up hazırlığı gibi kritik modüllere göre dağıtıldı.
+
+Sprint sonunda görevlerin **%67’si tamamlandı**, geri kalan %33’lük kısım Sprint 3’e aktarıldı.
+
+| Kart Başlığı                       | Açıklama                                         | Tahmini Puan (Story Point) | Durum                |
+| ---------------------------------- | ------------------------------------------------ | -------------------------- | -------------------- |
+| OpenFDA API bağlantısı             | API Key alma, test sorgusu yapma                 | 25                         | ✅ Tamamlandı         |
+| JSON veri çekimi ve ayrıştırılması | OpenFDA'dan gelen verinin parse edilmesi         | 25                         | ✅ Tamamlandı         |
+| Reminder sistemi                   | Kullanıcıya ilaç zamanı hatırlatma mekanizması   | 10                         | 🟡 Kısmen tamamlandı |
+| Mock-up tasarımı                   | UI/UX temel ekranlar                             | 10                         | 🔴 Tamamlanmadı      |
+| AI model planlaması                | Yan etki tespiti için sınıflandırıcı araştırması | 30                         | ✅ Tamamlandı         |
+
+**Tamamlanan puanlar: 25 + 25 + 30 = 80 puan**
+**Kısmen tamamlanan puan: 10 puan (Reminder – %50 olarak hesaplanabilir, 5 puan)**
+**Toplam biten puan: 85 / 100 puan**
+
+📈 **Görev Tamamlanma Oranı:** %85
+📉 **Kalan puanlar:** 15 puan → Sprint 3’e aktarılacak.
 
 ---
 
@@ -452,7 +465,7 @@ Sprint boyunca aktif olan ekip üyeleri:
 * Mobil mockup’ların dijital prototipe çevrilmesi
 * Final sunum için demo hazırlanması
 
----
+
 
 
 
