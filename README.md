@@ -382,7 +382,7 @@ https://github.com/user-attachments/assets/5133eb17-9beb-4a51-8581-8bbf2fa3bc6a
 Sprint boyunca aktif olan ekip üyeleri:
 
 * Ege  
-* Serhat 
+* Furkan 
 
 ### Başarılar:
 
