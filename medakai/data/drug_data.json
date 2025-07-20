@@ -1,0 +1,32 @@
+{
+    "parol": {
+        "kullanim": "Ağrı kesici ve ateş düşürücü",
+        "dozaj": "Günde 3 kez, her 8 saatte bir",
+        "yan_etikiler": "Mide bulantısı, baş dönmesi",
+        "etkilesimler": ["alkol"]
+    },
+    "augmentin": {
+        "kullanim": "Antibiyotik – enfeksiyon tedavisi",
+        "dozaj": "Günde 2 kez, sabah-akşam",
+        "yan_etikiler": "İshal, mide rahatsızlığı",
+        "etkilesimler": ["parol"]
+    },
+    "tylenol": {
+        "kullanim": "Ağrı kesici ve ateş düşürücü",
+        "dozaj": "Her 4-6 saatte bir 325-650 mg, maksimum 4g/gün",
+        "yan_etikiler": "Mide rahatsızlığı, karaciğer hasarı",
+        "etkilesimler": ["alkol", "warfarin"]
+    },
+    "amoxicillin": {
+        "kullanim": "Antibiyotik – enfeksiyon tedavisi",
+        "dozaj": "Günde 2-3 kez 250-500 mg",
+        "yan_etikiler": "İshal, alerjik reaksiyon",
+        "etkilesimler": ["parol", "oral kontraseptifler"]
+    },
+    "ibuprofen": {
+        "kullanim": "Ağrı kesici ve iltihap giderici",
+        "dozaj": "Her 6-8 saatte bir 200-400 mg, maksimum 3.2g/gün",
+        "yan_etikiler": "Mide ağrısı, baş dönmesi",
+        "etkilesimler": ["aspirin", "alkol"]
+    }
+}
