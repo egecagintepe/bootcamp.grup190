@@ -436,6 +436,7 @@ Sprint boyunca aktif olan ekip üyeleri:
 * Yapay zekâ kısmı ve final tasarım için başlangıç Sprint 3’e bırakılmıştır.
 * Python kullanımı nedeniyle mobil uyum sınırlı kalmıştır, fakat buradan hibrit bir çözüme geçilecektir.
 * Tüm süreç Trello üzerinden belgelenmiştir.
+* Ürünle ilgili ana dosyalar medakai ve data klasörlerine şimdiden yüklendi.
 
 ---
 
