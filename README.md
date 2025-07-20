@@ -291,7 +291,8 @@ Sprint başında alınan kararlar ve oluşturulan altyapı hakkında genel bilgi
  * Sprint 2 başlangıcında bir önceki sprint değerlendirilmiş, eksikler belirlenmiş ve buna göre bir geliştirme planı çıkarılmıştır.
  * Takım üyeleri arasında yeni görev dağılımı yapılmıştır.
  * OpenFDA API ile entegrasyon süreci başlatılmıştır.
- * Reminder (hatırlatma) sistemi temel düzeyde planlanmış ve test edilmiştir. 
+ * Reminder (hatırlatma) sistemi temel düzeyde planlanmış ve test edilmiştir.
+
 ---
 
 ## 📋 Sprint Board – Project Management
@@ -308,7 +309,8 @@ Sprint başında alınan kararlar ve oluşturulan altyapı hakkında genel bilgi
 | Kullanıcı Akışı Haritası                 | To Do       | Hasta girişi > ilaç seçimi > uyarı akışı belirlenecek |
 
 📌 **Ek:** Trello board ekran görüntüsü aşağıda yer almaktadır.
-📷 *\[Görsel dosya eklenecek]*
+<img width="1912" height="954" alt="image" src="https://github.com/user-attachments/assets/d666bb21-9e5d-4b86-ad34-0d5d42fcb76b" />
+
 
 ---
 
@@ -328,23 +330,21 @@ Sprint başında alınan kararlar ve oluşturulan altyapı hakkında genel bilgi
 ## 📊 Burn Down Chart 
 
 ```plaintext
-Task Completion Rate: 60%
-Remaining Tasks: 4
-Completed: 6
+Task Completion Rate: 67 %
+Remaining Tasks: 5
+Completed: 19
 ```
 
 ---
 
 ## 📷 App Screenshot
 
-!\[App Screenshot Placeholder]
-*(Gerçek kod arayüzü görüntüsü veya terminal çalıştırma çıktısı eklenebilir.)*
 
-Örnek Ekranlar:
+https://github.com/user-attachments/assets/78579259-1dc3-42d2-84c8-1b0869df42ac
 
-* Terminalde ilaç sorgusu sonrası dönen JSON cevabı
-* Saatlik reminder çıktısı (varsayımsal)
+API Entegrasyonu Sonrası İlk Deneme
 
+---
 
 ## 🧠 6. **Yapay Zekâ Planlaması**
 
@@ -356,20 +356,36 @@ Completed: 6
 * Etiketleme: OpenFDA “adverse effects” kısmından çekilecek
 * Eğitim verisi: Sprint 3’e hazırlık için örnek set hazırlanacak
 
+---
 
-## 🖌️ 4. **UI/UX Tasarım Süreci #2""
+## 🖌️ 4. **UI/UX Tasarım Süreci #2**
 
 
 
 
 ## 🗓️ 3. **Daily Scrum Kayıtları**
 
-* **1. Gün:** OpenFDA API dokümantasyonu incelendi. API Key alındı.
-* **2. Gün:** JSON örnek verisi çekildi ve temel parser yazıldı.
-* **3. Gün:** Reminder sisteminin alarm mekanizması çalıştırıldı.
-* **4. Gün:** Figma üzerinden ilk mock-up eskizleri hazırlandı.
+* **12.07.2025:** Ana prototip yapay zeka ve sayfa kodlaması yapıdlı.
+* **14.07.2025:** OpenFDA API dokümantasyonu incelendi. API Key alındı.
+* **15.07.2025:** Reminder sisteminin alarm mekanizması çalıştırıldı.
+* **18.07.2025:** Figma üzerinden ilk mock-up eskizleri hazırlandı.
 * **20.07.2025:** Sprint dökümanları güncellendi, son kontroller yapıldı.
+<img width="1136" height="784" alt="image" src="https://github.com/user-attachments/assets/a9eb8d59-ea06-4fe1-8137-a1969b6f81ed" />
+<img width="1215" height="306" alt="image" src="https://github.com/user-attachments/assets/1d3a9417-d720-415e-a95e-660377716b75" />
+<img width="1097" height="674" alt="image" src="https://github.com/user-attachments/assets/57c28607-abaa-4789-8004-02dd19c7a069" />
 
+
+---
+
+## 📈 2. **Sprint Planlaması – Story Point Tablosu**
+
+| Kart Başlığı                       | Açıklama                                         | Tahmini Puan (Story Point) |
+| ---------------------------------- | ------------------------------------------------ | -------------------------- |
+| OpenFDA API bağlantısı             | API Key alma, test sorgusu yapma                 | 25                          |
+| JSON veri çekimi ve ayrıştırılması | OpenFDA'dan gelen verinin parse edilmesi         | 25                          |
+| Reminder sistemi                   | Kullanıcıya ilaç zamanı hatırlatma mekanizması   | 10                          |
+| Mock-up tasarımı                   | UI/UX temel ekranlar                             | 10                          |
+| AI model planlaması                | Yan etki tespiti için sınıflandırıcı araştırması | 30                          |
 
 ---
 
@@ -377,7 +393,7 @@ Completed: 6
 
 Sprint boyunca aktif olan ekip üyeleri:
 
-* Çağın  
+* Ege  
 * Serhat 
 
 ### Başarılar:
@@ -417,7 +433,7 @@ Sprint boyunca aktif olan ekip üyeleri:
 
 ---
 
-## 🔄 7. **Sprint Review 
+## 🔄 **Sprint Review 
 
 **Sprint Review:**
 
@@ -442,25 +458,8 @@ Sprint boyunca aktif olan ekip üyeleri:
 * Mobil mockup’ların dijital prototipe çevrilmesi
 * Final sunum için demo hazırlanması
 
-
-
-
 ---
 
-## 📈 2. **Sprint Planlaması – Story Point Tablosu**
 
-> Her kartın açıklaması ve tahmini puanı.
-
-**Örnek tablo:**
-
-| Kart Başlığı                       | Açıklama                                         | Tahmini Puan (Story Point) |
-| ---------------------------------- | ------------------------------------------------ | -------------------------- |
-| OpenFDA API bağlantısı             | API Key alma, test sorgusu yapma                 | 25                          |
-| JSON veri çekimi ve ayrıştırılması | OpenFDA'dan gelen verinin parse edilmesi         | 25                          |
-| Reminder sistemi                   | Kullanıcıya ilaç zamanı hatırlatma mekanizması   | 10                          |
-| Mock-up tasarımı                   | UI/UX temel ekranlar                             | 10                          |
-| AI model planlaması                | Yan etki tespiti için sınıflandırıcı araştırması | 30                          |
-
----
 
 
