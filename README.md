@@ -288,8 +288,6 @@ Bu kapsamda aşağıdaki hedefler belirlenmiştir:
 
 Sprint başında alınan kararlar ve oluşturulan altyapı hakkında genel bilgi.
 
-**Örnek:**
-
  * Sprint 2 başlangıcında bir önceki sprint değerlendirilmiş, eksikler belirlenmiş ve buna göre bir geliştirme planı çıkarılmıştır.
  * Takım üyeleri arasında yeni görev dağılımı yapılmıştır.
  * OpenFDA API ile entegrasyon süreci başlatılmıştır.
@@ -297,13 +295,6 @@ Sprint başında alınan kararlar ve oluşturulan altyapı hakkında genel bilgi
 ---
 
 ## 📋 Sprint Board – Project Management
-
-Sprint 2 süresince ekip içi görev takibi ve iş bölümü **Trello** üzerinden sağlanmıştır.
-Board, aşağıdaki 3 ana kategoride yapılandırılmıştır:
-
-* **To Do**
-* **In Progress**
-* **Done**
 
 ### 🧩 Ana Kartlar:
 
@@ -313,7 +304,7 @@ Board, aşağıdaki 3 ana kategoride yapılandırılmıştır:
 | JSON Verilerinin Çekilmesi ve Saklanması | In Progress | İlaçlara dair veri listeleri çekildi                  |
 | Reminder Sistemi Kurulumu                | In Progress | Saat bazlı hatırlatma modülü kodlandı                 |
 | Veri Çeviri ve Türkçeleştirme            | In Progress | JSON verileri işlenip Türkçeye çevriliyor             |
-| Mobil Mockup Tasarımı                    | To Do       | UI için ilk mockup süreci Trello’ya yüklendi          |
+| Mobil Mockup Tasarımı                    | To Do       | UI için ana mockup süreci Trello’ya yüklenmesi        |
 | Kullanıcı Akışı Haritası                 | To Do       | Hasta girişi > ilaç seçimi > uyarı akışı belirlenecek |
 
 📌 **Ek:** Trello board ekran görüntüsü aşağıda yer almaktadır.
@@ -325,10 +316,8 @@ Board, aşağıdaki 3 ana kategoride yapılandırılmıştır:
 
 > Hangi diller, hangi sistemler, nasıl entegrasyon?
 
-**Örnek:**
-
 * Backend: Python (FastAPI ile REST API geliştirme)
-* Veritabanı: SQLite (başlangıç), ileride PostgreSQL
+* Veritabanı: SQLite (başlangıç)
 * Frontend: Flutter (ileride)
 * OpenFDA API entegrasyonu: `requests` ile veri çekme
 * Reminder sistemi: `schedule` veya `apscheduler` ile zamanlayıcı
@@ -336,15 +325,13 @@ Board, aşağıdaki 3 ana kategoride yapılandırılmıştır:
 
 
 
-## 📊 Burn Down Chart (Temsili)
+## 📊 Burn Down Chart 
 
 ```plaintext
 Task Completion Rate: 60%
 Remaining Tasks: 4
 Completed: 6
 ```
-
-*(Not: Gerçek zamanlı yapılmadı, simülasyon verisidir.)*
 
 ---
 
@@ -370,31 +357,18 @@ Completed: 6
 * Eğitim verisi: Sprint 3’e hazırlık için örnek set hazırlanacak
 
 
-## 🖌️ 4. **UI/UX Tasarım Süreci**
+## 🖌️ 4. **UI/UX Tasarım Süreci #2""
 
-> Mock-up ekranları, kullanıcı yolculuğu, ekranların açıklamaları.
 
-**Yapılabilecekler:**
-
-* Figma veya Canva üzerinden 2–3 temel ekran:
-
-  * Ana sayfa
-  * İlaç takibi ekranı
-  * Bildirim ekranı
-* Basit kullanıcı akış diyagramı: "İlaç ekle → Zaman ayarla → Bildirim al"
 
 
 ## 🗓️ 3. **Daily Scrum Kayıtları**
-
-> Her güne ait kısa notlar. (Gerçek olmasa bile anlamlı olmalı)
-
-**Örnek:**
 
 * **1. Gün:** OpenFDA API dokümantasyonu incelendi. API Key alındı.
 * **2. Gün:** JSON örnek verisi çekildi ve temel parser yazıldı.
 * **3. Gün:** Reminder sisteminin alarm mekanizması çalıştırıldı.
 * **4. Gün:** Figma üzerinden ilk mock-up eskizleri hazırlandı.
-* **5. Gün:** Sprint dökümanları güncellendi, Trello kartları tamamlandı.
+* **20.07.2025:** Sprint dökümanları güncellendi, son kontroller yapıldı.
 
 
 ---
@@ -403,13 +377,12 @@ Completed: 6
 
 Sprint boyunca aktif olan ekip üyeleri:
 
-* Çağın 
-* Furkan 
+* Çağın  
 * Serhat 
 
 ### Başarılar:
 
-* API bağlantısı başarılı şekilde kuruldu.
+* API alındı ve bağlantısı başarılı şekilde kuruldu.
 * JSON veri çekme işlemi çalışır duruma getirildi.
 * Hatırlatma sistemi temel düzeyde çalışıyor.
 * Türkçeleştirme süreci başlatıldı.
@@ -419,7 +392,7 @@ Sprint boyunca aktif olan ekip üyeleri:
 * Mobil mockup henüz tamamlanmadı.
 * UI/UX testleri yapılmadı.
 * Reminder sistemi entegre edilmedi (tek başına çalışıyor).
-* Ekip içi iletişim düşük seviyede kaldı.
+* Ekip içi iletişim çok düşük seviyede kaldı.
 
 ---
 
@@ -434,7 +407,7 @@ Sprint boyunca aktif olan ekip üyeleri:
 
 * Takım içi iletişimin artırılması
 * Kodun mobil platforma uyarlanması
-* UI/UX tasarım sürecinin başlatılması
+* UI/UX tasarım entegrasyon sürecinin başlatılması
 
 **Karar Verilen Aksiyonlar:**
 
@@ -442,11 +415,9 @@ Sprint boyunca aktif olan ekip üyeleri:
 * Reminder sistemi mobil uyuma taşınacak
 * JSON veri yönetimi optimize edilecek
 
-
+---
 
 ## 🔄 7. **Sprint Review 
-
-> Sprint sonunda genel değerlendirme + ekip içi gözden geçirme
 
 **Sprint Review:**
 
@@ -457,8 +428,8 @@ Sprint boyunca aktif olan ekip üyeleri:
 
 ## 🗒️ Additional Notes
 
-* Proje henüz çok erken bir aşamada olmasına rağmen temel veri bağlantıları başarıyla kuruldu.
-* Yapay zekâ kısmı için veri hazırlığı Sprint 3’e bırakılmıştır.
+* Proje ekip iletişimi yetersiz olmasına rağmen temel veri bağlantıları başarıyla kuruldu.
+* Yapay zekâ kısmı ve final tasarım için başlangıç Sprint 3’e bırakılmıştır.
 * Python kullanımı nedeniyle mobil uyum sınırlı kalmıştır, fakat buradan hibrit bir çözüme geçilecektir.
 * Tüm süreç Trello üzerinden belgelenmiştir.
 
