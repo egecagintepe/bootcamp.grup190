@@ -321,7 +321,7 @@ Sprint başında alınan kararlar ve oluşturulan altyapı hakkında genel bilgi
 ```plaintext
 Task Completion Rate: 67 %
 Remaining Tasks: 5
-Completed: 19
+Completed: 10
 ```
 
 ---
