@@ -334,7 +334,7 @@ https://github.com/user-attachments/assets/5133eb17-9beb-4a51-8581-8bbf2fa3bc6a
 
 ---
 
-## 🧠 6. **Yapay Zekâ Planlaması**
+## 🧠 **Yapay Zekâ Planlaması**
 
 > Hedef model, veriseti, etiketleme planı
 
@@ -346,12 +346,12 @@ https://github.com/user-attachments/assets/5133eb17-9beb-4a51-8581-8bbf2fa3bc6a
 
 ---
 
-## 🖌️ 4. **UI/UX Tasarım Süreci #2**
+## 🖌️ **UI/UX Tasarım Süreci #2**
 
 
 
 
-## 🗓️ 3. **Daily Scrum Kayıtları**
+## 🗓️ **Daily Scrum Kayıtları**
 
 * **12.07.2025:** Ana prototip yapay zeka ve sayfa kodlaması yapıdlı.
 * **14.07.2025:** OpenFDA API dokümantasyonu incelendi. API Key alındı.
@@ -365,7 +365,7 @@ https://github.com/user-attachments/assets/5133eb17-9beb-4a51-8581-8bbf2fa3bc6a
 
 ---
 
-## 📈 2. **Sprint Planlaması – Story Point Tablosu**
+## 📈 **Sprint Planlaması – Story Point Tablosu**
 
 | Kart Başlığı                       | Açıklama                                         | Tahmini Puan (Story Point) |
 | ---------------------------------- | ------------------------------------------------ | -------------------------- |
