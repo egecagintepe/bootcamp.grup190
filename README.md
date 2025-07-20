@@ -355,10 +355,6 @@ https://github.com/user-attachments/assets/5133eb17-9beb-4a51-8581-8bbf2fa3bc6a
 
 ---
 
-## 🖌️ **UI/UX Tasarım Süreci #2**
-
-
-
 
 ## 🗓️ **Daily Scrum Kayıtları**
 
