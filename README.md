@@ -9,8 +9,6 @@ Takım Elemanları
 1. Serhat Yazıcı - Scrum Master
 2. Ege Çağın Tepe - Product Owner
 3. Furkan Akalp - Developer
-4. Sena AKSU - Aktif Değil
-5. Selahattin - Aktif Değil
 
 Ürün İsmi
 -
