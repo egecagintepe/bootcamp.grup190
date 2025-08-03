@@ -1,0 +1,12 @@
+[
+    {
+        "drug": "tylenol",
+        "time": "09:00",
+        "frequency": "Her 6 saatte bir"
+    },
+    {
+        "drug": "augmentin",
+        "time": "09:45",
+        "frequency": "Her 8 saatte bir"
+    }
+]
