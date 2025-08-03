@@ -886,6 +886,6 @@ ile öne çıkıyor. Geliştirmeye açık yönlerimizle birlikte jüri değerlen
 |-------|----------|------|
 | APK | Son yapı | [[İndir](https://drive.google.com/file/d/1yJx4vISBVSOsltucTT5oMVW8VckUWGWm/view?usp=sharing)](#) |
 | Kaynak Kod | GitHub Repo | [[GitHub](https://github.com/egecagintepe)](#) |
-| Sunum | Youtube | [[Google Slides](https://youtube.com/shorts/PvAfdvgMYIU?feature=share)](#) |
+| Sunum | Youtube | [[Youtube Videosu](https://youtube.com/shorts/PvAfdvgMYIU?feature=share)](#) |
 
 
